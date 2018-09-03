@@ -15,7 +15,7 @@ In this C++ project, I use a Proportional-Integral-Derivative Controller, or PID
 ## Final Result
 The output of the PID around the track is shown here:
 
-![Final Result](.CarND-PID-Control-Project-master/Video/Udacity_PID.gif)
+![Final Result](./Video/Udacity_PID.gif)
 
 ### PID explanation
 The actual implementation of code for a basic PID controller is fairly straightforward, but making the controller actually perform well is the tough part. Having knowledge of each part of "PID" is important:
